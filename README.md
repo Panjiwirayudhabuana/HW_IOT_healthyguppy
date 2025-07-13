@@ -92,7 +92,7 @@ Sistem monitoring dan kontrol otomatis berbasis **ESP32**, terintegrasi dengan *
 
 ## 🖼️ Skema Sistem
 
-<img src="./skema.png" alt="Skema Rangkaian Sistem ESP32" width="800"/>
+<img src="./skema.jpg" alt="Skema Rangkaian Sistem ESP32" width="800"/>
 
 ---
 
